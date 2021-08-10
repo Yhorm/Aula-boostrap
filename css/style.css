@@ -1,0 +1,37 @@
+
+body{
+    font-family: 20px 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
+}
+
+.navbar {
+    background-color: rgb(0, 0, 0) !important;
+    text-decoration: none !important;
+    color: white !important;
+    background: linear-gradient(rgba(0, 0, 0, 0.50),rgba(0,0,0,.50)100%) !important;
+}
+
+.quem-somos {
+    background-color: rgb(71, 70, 70);
+    color: white;
+
+}
+
+.margin {
+    padding-bottom: 47.5px;
+    padding-top: 20px;
+}
+
+.margin2 {
+    padding-bottom: 15px;
+}
+
+.Parceiros{
+    background-color: rgb(60, 134, 209);
+}
+
+.bg-footer{
+    background-color: rgb(67, 153, 211);
+    color: white;
+    padding: 1px;
+    margin: 1px;
+}
